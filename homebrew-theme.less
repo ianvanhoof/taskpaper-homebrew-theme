@@ -1,0 +1,35 @@
+@text-color: #1CFF3B;
+@background-color: rgba(12,28,43,.3);
+@font-family: "Open Sans";
+@tint-color:#1CFF3B;
+@handle-color:#1CFF3B;
+@handle-secondary-color:#1CFF3B;
+@selection-color: #5887B0; 
+@invisibles-color: mix(@tint-color, @background-color, 70%); 
+@cursor-color: #40CFFF;
+@done-color: rgb(30%, 30%, 30%);
+@tag-color:  rgb(35%, 35%, 35%);
+item[data-type=project] {
+  font-weight:normal;
+  text-decoration:underline;
+  
+}
+run[tag=data-due] {
+  color: #80C4FF;
+}
+run[tag=data-start] {
+  color: #80C4FF;
+}
+run[tag=data-today] {
+  color: #80C4FF;
+}
+run[tag=data-current] {
+  color: #C8EBFF;
+}
+window {
+  appearance: NSAppearanceNameVibrantDark
+}
+
+sidebar {
+appearance: NSAppearanceNameVibrantDark;
+}
