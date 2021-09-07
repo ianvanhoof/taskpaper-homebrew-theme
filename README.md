@@ -12,4 +12,4 @@ The font-family is set to "Open Sans."
 
 ## Screenshot
 
-![](https://github.com/ianvanhoof/taskpaper-homebrew-theme/blob/main/taskpaper-screenshot.png)
+![](https://raw.githubusercontent.com/ianvanhoof/taskpaper-homebrew-theme/main/taskpaper-screenGrab.png)
